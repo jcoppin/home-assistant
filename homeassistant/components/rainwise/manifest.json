@@ -1,0 +1,8 @@
+{
+  "domain": "rainwise",
+  "name": "Rainwise",
+  "documentation": "https://www.home-assistant.io/components/rainwise",
+  "requirements": ["beautifulsoup4==4.8.0"],
+  "dependencies": [],
+  "codeowners": ["@jcoppin"]
+}
